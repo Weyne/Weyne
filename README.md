@@ -1,4 +1,4 @@
-<img alt="Weyne" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Weyne</h2>
+<h2>¡Hola! Soy Weyne</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://github.com/Weyne">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Weyne&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Weynelayout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Weyne&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
