@@ -1,10 +1,10 @@
-<h2>¡Hola! Soy Weyne</h2>
+<h2>¡Hola! Soy Wilson Narro</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.\
 🎓 &nbsp;Ingeniero de Sistemas Computaciones egresado de la Universidad Privada del Norte.\
-🌱 &nbsp;Estoy en proceso de aprender más sobre DevOps, Diseño de Sistemas y Arquitectura en la Nube.\
+🌱 &nbsp;Estoy en proceso de aprender más sobre DevOps, Diseño de Sistemas y Arquitectura en la Nube.
 
 ### 🛠 &nbsp;Tecnologías y Herramientas
 
